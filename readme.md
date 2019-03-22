@@ -6,7 +6,7 @@
 
 #e-commerce shoop with larvel
 > a e-commerce web app with laravel
-> [www.e218stuido.com](http://www.e218stuido.com "www.e218stuido.com")
+> [www.e218studio.com](http://www.e218studio.com "www.e218stuido.com")
 
 
 
